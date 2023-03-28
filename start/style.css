@@ -1,0 +1,34 @@
+body {
+    background-color: #C1CAD6;
+}
+
+.js-input-a {
+    margin-bottom: 18px;
+    line-height: 20px;
+}
+
+.js-input-b {
+    line-height: 20px;
+}
+
+.js-select-operation {
+    height: 25px;
+
+}
+
+.js-btn-result {
+    line-height: 20px;
+    font-weight: 700;
+
+}
+
+.js-output {
+    font-size: 30px;
+    margin: 0;
+}
+
+.result-text {
+    font-size: 35px;
+    margin: 0;
+    font-weight: 700;
+}

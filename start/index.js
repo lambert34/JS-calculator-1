@@ -9,10 +9,7 @@ btnResultNode.addEventListener('click', function() {
     const b = Number(inputBNode.value);
     const operation = selectOperationNode.value;
 
-    const result = calculate({
-        a,
-        b,
-        operation
-    });
+    const result = calculate({ a, b, operation });
+    outputNode.innerHTML = result;
 
 });
